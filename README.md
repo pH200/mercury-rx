@@ -1,5 +1,7 @@
 # mercury-rx
 
+[![Build Status](https://travis-ci.org/pH200/mercury-rx.svg?branch=master)](https://travis-ci.org/pH200/mercury-rx)
+
 Reactive main-loop for the [mercury] frontend framework
 
 [RxJS] and [mercury] are pluggable and not in the
