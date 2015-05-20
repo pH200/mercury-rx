@@ -13,7 +13,7 @@ dependency tree of this package
 'use strict';
 
 var document = require('global/document');
-var hgrx = require('../index.js');
+var hgrx = require('mercury-rx');
 var hg = require('mercury');
 var h = require('mercury').h;
 var Rx = require('rx');
